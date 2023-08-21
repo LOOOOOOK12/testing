@@ -1,0 +1,14 @@
+.log-In-BTN{
+    color: white;
+    padding: .5rem;
+    background: transparent;
+    border: 2px white solid;
+    border-radius: 8px;
+    transition: 0.5s ease;
+    margin-top: 1rem;
+    width: 7rem;
+}
+
+.log-In-BTN:hover{
+    background: red;
+}
